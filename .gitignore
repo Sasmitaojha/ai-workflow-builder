@@ -1,0 +1,21 @@
+# Node
+node_modules
+dist
+.vite
+
+# Python
+__pycache__
+.venv
+.env
+*.pyc
+
+# Docker / data
+/data
+logs.log
+pgdata
+chroma_data
+
+# VSCode / OS
+.vscode
+.DS_Store
+Thumbs.db
